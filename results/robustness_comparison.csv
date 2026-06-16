@@ -1,0 +1,11 @@
+perturb,severity,fno_success_pct,fno_n,octo_success_pct,octo_n,delta_octo_minus_fno
+clean,0,61,100,64,50,3
+noise,1,61,100,62,50,1
+noise,2,62,100,70,50,8
+noise,3,54,100,68,50,14
+blur,1,51,100,78,50,27
+blur,2,47,100,68,50,21
+blur,3,38,100,64,50,26
+brightness,1,60,100,70,50,10
+brightness,2,57,100,66,50,9
+brightness,3,58,100,60,50,2

@@ -1,0 +1,4 @@
+﻿model,n_rollouts,success_pct,mean_jerk
+Octo-Small_137M,50,64.0,0.03862
+FNO-VLA_sv_28.9M,200,67.0,0.02560
+FNO-VLA_baseline_28.9M,200,63.5,0.02760

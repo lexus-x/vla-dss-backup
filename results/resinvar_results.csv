@@ -1,0 +1,5 @@
+output_size,region,n,successes,success_pct,wilson_ci_halfwidth,mean_jerk
+8,below_nyquist,100,29,29.0,8.9,0.02363
+16,native,100,61,61.0,9.6,0.02834
+24,above_nyquist,100,68,68.0,9.1,0.02247
+32,above_nyquist,100,66,66.0,9.3,0.02641

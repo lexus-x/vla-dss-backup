@@ -1,0 +1,46 @@
+# Finetune a Bridge-pretrained FNO-VLA onto YOUR WidowX target tasks (few-shot).
+# Same architecture as bridge.yaml; differences are LOW LR + few epochs + small batch
+# so the pretrained features are adapted, not wiped.
+#
+#   python -u src/train.py --config configs/bridge_finetune.yaml \
+#       --data_dir /workspace/fno_data/my_widowx_tasks \
+#       --resume   /workspace/fno_data/run_bridge/best.pt \
+#       --checkpoint_dir /workspace/fno_data/run_widowx_ft
+#
+# *** CRITICAL: reuse the BRIDGE action-norm stats, do NOT recompute on ~20 demos. ***
+# Same robot => same action space. If the finetune dataset recomputes mean/std from a
+# tiny set, the targets get mis-scaled vs what the pretrained head expects -> bad finetune.
+# train.py must load action_mean/std from the Bridge run (saved at pretrain) and pass them
+# to the dataset (the loader already accepts action_mean / action_std args).
+model:
+  aux_xy: true
+  gated_fusion: true
+  vision: {img_size: 224, pretrained: true, freeze: false}
+  scattering: {enabled: true, J: 3, L: 12, proj_channels: 128, num_res_blocks: 3}
+  tinyvit: {enabled: true, model_name: vit_small_patch16_dinov3, frozen: true, dropout: 0.3}
+  head: fno
+  language: {pretrained: true, model_name: sentence-transformers/all-MiniLM-L6-v2, embed_dim: 128, max_seq_len: 32}
+  proprio: {input_dim: 15, hidden_dim: 64, output_dim: 128}
+  fusion: {shared_dim: 256, num_layers: 3, num_heads: 8, mlp_dim: 768, latent_dim: 256, separate_pool: true, vision_pool: mean}
+  fno: {width: 256, num_layers: 4, modes: 8, action_dim: 6, chunk_size: 16}
+training:
+  batch_size: 32                   # small target set
+  num_workers: 8
+  checkpoint_dir: /workspace/fno_data/run_widowx_ft
+  lr: 2.0e-05                      # LOW — preserve pretrained features (10-15x below pretrain)
+  weight_decay: 1.0e-05
+  warmup_steps: 100
+  ema_decay: 0.999
+  max_epochs: 40                   # small data overfits fast — EARLY-STOP on held-out demos
+  ckpt_every: 2
+  grad_clip: 1.0
+  mixed_precision: true
+  loss: {action: smooth_l1, gripper: bce, gripper_weight: 1.0, aux_xy_weight: 0.5}
+  action_chunk: {size: 16, execute: 8}
+  reuse_action_stats_from_resume: true   # <-- train.py hook: load norm stats from the Bridge ckpt
+data:
+  dataset: bridge                  # your WidowX demos in the same HDF5 schema
+  img_size: 224
+  augmentation: {random_crop: true, color_jitter: true, corruption: false}  # lighter on tiny data
+eval: {num_rollouts: 0, max_episode_steps: 400}
+wandb: {project: fno-vla-widowx, enabled: false}

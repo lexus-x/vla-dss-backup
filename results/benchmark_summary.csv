@@ -1,0 +1,3 @@
+model,N,successes,success_pct,wilson_lo,wilson_hi,mean_jerk
+aux-71 (ep5),100,71,71.0,61.5,79.0,0.0248
+dagger ep5,61,44,72.1,59.8,81.8,0.0301

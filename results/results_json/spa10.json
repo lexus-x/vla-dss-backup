@@ -1,0 +1,76 @@
+{
+  "suite": "libero_spatial",
+  "tag": "spa10",
+  "checkpoint": "",
+  "execute": 8,
+  "N": 100,
+  "successes": 71,
+  "success_pct": 71.0,
+  "wilson_ci_95": [
+    61.5,
+    79.0
+  ],
+  "mean_jerk": 0.0351,
+  "per_task": {
+    "0": {
+      "task": "pick up the black bowl between the plate and the ramekin and place it on the plate",
+      "successes": 6,
+      "n": 10,
+      "pct": 60.0
+    },
+    "1": {
+      "task": "pick up the black bowl next to the ramekin and place it on the plate",
+      "successes": 10,
+      "n": 10,
+      "pct": 100.0
+    },
+    "2": {
+      "task": "pick up the black bowl from table center and place it on the plate",
+      "successes": 10,
+      "n": 10,
+      "pct": 100.0
+    },
+    "3": {
+      "task": "pick up the black bowl on the cookie box and place it on the plate",
+      "successes": 6,
+      "n": 10,
+      "pct": 60.0
+    },
+    "4": {
+      "task": "pick up the black bowl in the top drawer of the wooden cabinet and place it on the plate",
+      "successes": 5,
+      "n": 10,
+      "pct": 50.0
+    },
+    "5": {
+      "task": "pick up the black bowl on the ramekin and place it on the plate",
+      "successes": 6,
+      "n": 10,
+      "pct": 60.0
+    },
+    "6": {
+      "task": "pick up the black bowl next to the cookie box and place it on the plate",
+      "successes": 9,
+      "n": 10,
+      "pct": 90.0
+    },
+    "7": {
+      "task": "pick up the black bowl on the stove and place it on the plate",
+      "successes": 7,
+      "n": 10,
+      "pct": 70.0
+    },
+    "8": {
+      "task": "pick up the black bowl next to the plate and place it on the plate",
+      "successes": 5,
+      "n": 10,
+      "pct": 50.0
+    },
+    "9": {
+      "task": "pick up the black bowl on the wooden cabinet and place it on the plate",
+      "successes": 7,
+      "n": 10,
+      "pct": 70.0
+    }
+  }
+}

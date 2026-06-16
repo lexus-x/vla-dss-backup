@@ -1,0 +1,107 @@
+# FNO-VLA Default Configuration
+# Scattering Transform (vision) + FNO (action decoder)
+# Target: under 50M params, single A6000 48GB
+
+model:
+  # Vision encoder
+  vision:
+    img_size: 128
+    pretrained: true      # only used when scattering disabled (TinyViT fallback)
+    freeze: false
+
+  # Scattering Transform observation encoder (novel) — now the *stability* path.
+  # Shrunk because frozen TinyViT carries the semantic load.
+  scattering:
+    enabled: true         # false = tinyvit-only ablation
+    J: 3
+    L: 12
+    proj_channels: 128    # shrunk 320 -> 128 (TinyViT does the heavy lifting)
+    num_res_blocks: 3     # shrunk 7 -> 3
+
+  # Frozen pretrained semantic path (0 trainable params). Biggest accuracy lever.
+  tinyvit:
+    enabled: true
+    model_name: "tiny_vit_21m_224.dist_in22k_ft_in1k"
+    frozen: true
+    dropout: 0.3          # on TinyViT tokens — prevents scattering-path collapse
+
+  # Action head: "fno" (resolution-invariant) or "mlp" (baseline, fixed-resolution)
+  head: "fno"
+
+  # Language encoder — frozen pretrained sentence model for robust grounding
+  # (fixes the per-object targeting failures on multi-object scenes).
+  language:
+    pretrained: true
+    model_name: "prajjwal1/bert-tiny"   # 4.4M frozen (was MiniLM 22.8M — too big)
+    embed_dim: 128        # projected output dim of the language token
+    max_seq_len: 32
+    # (below only used if pretrained: false)
+    vocab_size: 32000
+    num_layers: 4
+    num_heads: 4
+    mlp_dim: 256
+
+  # Proprioception encoder
+  proprio:
+    input_dim: 15  # ee_pos(3) + ee_ori(3) + gripper_qpos(2) + joint_states(7)
+    hidden_dim: 64
+    output_dim: 128
+
+  # Fusion module — widened for dual-path cross-modal reasoning
+  fusion:
+    shared_dim: 256
+    num_layers: 3      # was 2
+    num_heads: 8
+    mlp_dim: 768       # was 512
+    latent_dim: 256
+    separate_pool: true  # pool vision/language/proprio separately (anti-dilution)
+    vision_pool: attention  # learned-query attention pool over vision tokens -> preserves object localization (clean fix for off-center grasps)
+
+  # FNO decoder
+  fno:
+    width: 320       # was 256 (a bit more action-decoder capacity)
+    num_layers: 4
+    modes: 5         # of 6 at chunk10 -> drops 1 = decent smoothness, leans to accuracy/precision
+    action_dim: 6    # continuous: dx,dy,dz,droll,dpitch,dyaw
+    chunk_size: 10   # capped at 10 (long horizons hurt; keep short)
+
+training:
+  batch_size: 128     # smaller: dual-view TinyViT@224 + scattering is memory-heavier
+  num_workers: 4      # single job: 4 workers pickle the ~15GB dataset (~75GB total) -> fits 136GB RAM. (Use 0 only if running 2 jobs at once.)
+  checkpoint_dir: "E:/fno_data/run_attnpool"  # chunk10/modes5 + attention-pool (localization fix)
+  lr: 2.0e-4          # scaled up with larger batch (linear-ish from 1e-4 @ bs128)
+  weight_decay: 1.0e-5
+  warmup_steps: 500   # now actually applied (linear warmup -> cosine)
+  ema_decay: 0.999    # evaluate/deploy EMA of weights (Octo-style)
+  max_epochs: 300
+  grad_clip: 1.0
+  # AMP disabled: FNO spectral weights are complex (torch.cfloat) and GradScaler
+  # cannot unscale ComplexFloat grads on CUDA. TF32 (set in train.py) gives the
+  # Ampere matmul speedup instead, and is compatible with complex/FFT ops.
+  mixed_precision: false
+
+  loss:
+    action: "smooth_l1"   # Smooth-L1 on continuous actions
+    gripper: "bce"        # BCE on gripper binary
+    gripper_weight: 1.0
+
+  action_chunk:
+    size: 10
+    execute: 4            # (only used by non-temporal-ensemble eval path)
+
+data:
+  dataset: "libero"
+  suite: "libero_object"  # start with easiest
+  img_size: 128
+  num_demos: 50
+  augmentation:
+    random_crop: true
+    color_jitter: true
+
+eval:
+  num_rollouts: 20
+  max_episode_steps: 500
+
+wandb:
+  project: "fno-vla"
+  enabled: false          # enable when ready

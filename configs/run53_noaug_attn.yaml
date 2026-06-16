@@ -1,0 +1,76 @@
+model:
+  vision:
+    img_size: 128
+    pretrained: true
+    freeze: false
+  scattering:
+    enabled: true
+    J: 3
+    L: 12
+    proj_channels: 128
+    num_res_blocks: 3
+  tinyvit:
+    enabled: true
+    model_name: tiny_vit_21m_224.dist_in22k_ft_in1k
+    frozen: true
+    dropout: 0.3
+  head: fno
+  language:
+    pretrained: true
+    model_name: prajjwal1/bert-tiny
+    embed_dim: 128
+    max_seq_len: 32
+    vocab_size: 32000
+    num_layers: 4
+    num_heads: 4
+    mlp_dim: 256
+  proprio:
+    input_dim: 15
+    hidden_dim: 64
+    output_dim: 128
+  fusion:
+    shared_dim: 256
+    num_layers: 3
+    num_heads: 8
+    mlp_dim: 768
+    latent_dim: 256
+    separate_pool: true
+    vision_pool: attention
+  fno:
+    width: 256
+    num_layers: 4
+    modes: 8
+    action_dim: 6
+    chunk_size: 16
+training:
+  batch_size: 128
+  num_workers: 4
+  checkpoint_dir: E:/fno_data/run_53noaug_attn
+  lr: 0.0002
+  weight_decay: 1.0e-05
+  warmup_steps: 500
+  ema_decay: 0.999
+  max_epochs: 300
+  grad_clip: 1.0
+  mixed_precision: false
+  loss:
+    action: smooth_l1
+    gripper: bce
+    gripper_weight: 1.0
+  action_chunk:
+    size: 16
+    execute: 8
+data:
+  dataset: libero
+  suite: libero_object
+  img_size: 128
+  num_demos: 50
+  augmentation:
+    random_crop: false
+    color_jitter: false
+eval:
+  num_rollouts: 20
+  max_episode_steps: 500
+wandb:
+  project: fno-vla
+  enabled: false

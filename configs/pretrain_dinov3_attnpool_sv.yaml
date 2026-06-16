@@ -1,0 +1,37 @@
+# EXP B-sv (all-data): attention-pool + SEPARATE-VIEWS cross-suite PRETRAIN.
+# IDENTICAL to pretrain_dinov3_attnpool.yaml except model.separate_views: true
+# (two camera views kept as separate token streams instead of averaged, so the
+# proprio-gated pooling query can attend to the wrist view for grasp-depth)
+# and a separate checkpoint_dir.
+model:
+  separate_views: true
+  vision: {img_size: 128, pretrained: true, freeze: false}
+  scattering: {enabled: true, J: 3, L: 12, proj_channels: 128, num_res_blocks: 3}
+  tinyvit: {enabled: true, model_name: vit_small_patch16_dinov3, frozen: true, dropout: 0.3}
+  head: fno
+  language: {pretrained: false, embed_dim: 128, max_seq_len: 64, vocab_size: 1000, num_layers: 2, num_heads: 4, mlp_dim: 256}
+  proprio: {input_dim: 15, hidden_dim: 64, output_dim: 128}
+  fusion: {shared_dim: 256, num_layers: 3, num_heads: 8, mlp_dim: 768, latent_dim: 256, separate_pool: true, vision_pool: attention}
+  fno: {width: 256, num_layers: 4, modes: 8, action_dim: 6, chunk_size: 16}
+training:
+  batch_size: 128
+  num_workers: 8
+  checkpoint_dir: E:/fno_data/run_dinov3_attnpool_sv_pretrain
+  lr: 0.0002
+  weight_decay: 1.0e-05
+  warmup_steps: 1000
+  ema_decay: 0.999
+  max_epochs: 80
+  grad_clip: 1.0
+  mixed_precision: false
+  loss: {action: smooth_l1, gripper: bce, gripper_weight: 1.0}
+  action_chunk: {size: 16, execute: 8}
+data:
+  dataset: libero
+  suites: [libero_object, libero_goal, libero_spatial, libero_90, libero_10]
+  stride: 4
+  img_size: 128
+  num_demos: 50
+  augmentation: {random_crop: true, color_jitter: true}
+eval: {num_rollouts: 20, max_episode_steps: 500}
+wandb: {project: fno-vla, enabled: false}

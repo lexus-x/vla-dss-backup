@@ -1,0 +1,6 @@
+model,params,n,successes,success_pct,wilson_ci_halfwidth
+FNO-VLA_baseline,28.9M,200,127,63.5,6.7
+FNO-VLA_sv_ep5,28.9M,200,134,67.0,6.5
+FNO-VLA_sv_ep10,28.9M,200,124,62.0,6.7
+FNO-VLA_sv_ep44,28.9M,200,109,54.5,6.9
+Octo-Small,137M,200,141,70.5,6.3

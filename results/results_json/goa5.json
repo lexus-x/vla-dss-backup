@@ -1,0 +1,76 @@
+{
+  "suite": "libero_goal",
+  "tag": "goa5",
+  "checkpoint": "",
+  "execute": 8,
+  "N": 100,
+  "successes": 72,
+  "success_pct": 72.0,
+  "wilson_ci_95": [
+    62.5,
+    79.9
+  ],
+  "mean_jerk": 0.029,
+  "per_task": {
+    "0": {
+      "task": "open the middle drawer of the cabinet",
+      "successes": 10,
+      "n": 10,
+      "pct": 100.0
+    },
+    "1": {
+      "task": "put the bowl on the stove",
+      "successes": 9,
+      "n": 10,
+      "pct": 90.0
+    },
+    "2": {
+      "task": "put the wine bottle on top of the cabinet",
+      "successes": 1,
+      "n": 10,
+      "pct": 10.0
+    },
+    "3": {
+      "task": "open the top drawer and put the bowl inside",
+      "successes": 1,
+      "n": 10,
+      "pct": 10.0
+    },
+    "4": {
+      "task": "put the bowl on top of the cabinet",
+      "successes": 10,
+      "n": 10,
+      "pct": 100.0
+    },
+    "5": {
+      "task": "push the plate to the front of the stove",
+      "successes": 7,
+      "n": 10,
+      "pct": 70.0
+    },
+    "6": {
+      "task": "put the cream cheese in the bowl",
+      "successes": 7,
+      "n": 10,
+      "pct": 70.0
+    },
+    "7": {
+      "task": "turn on the stove",
+      "successes": 10,
+      "n": 10,
+      "pct": 100.0
+    },
+    "8": {
+      "task": "put the bowl on the plate",
+      "successes": 8,
+      "n": 10,
+      "pct": 80.0
+    },
+    "9": {
+      "task": "put the wine bottle on the rack",
+      "successes": 9,
+      "n": 10,
+      "pct": 90.0
+    }
+  }
+}
