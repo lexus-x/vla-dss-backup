@@ -12,7 +12,8 @@
 # augmentation off) and confirm loss -> ~0 before any full run.
 model:
   aux_xy: true
-  gated_fusion: true               # GMU gate (identity-init, safe). Set false for a simpler first run.
+  gated_fusion: false              # OFF to match the proven 79.5% DAgger architecture (it had no GMU gate).
+                                   # gated_fusion was an untested planned addition -> deferred to an ablation.
   # BEST-ACCURACY: 224 = DINOv3's native res; real images carry detail that 128 throws away.
   # The stored data MUST be converted at the SAME res (convert --img_size 224). For fast
   # iteration, set BOTH this and the converter to 128 (smaller/faster), then 224 for the final run.
@@ -20,11 +21,14 @@ model:
   scattering: {enabled: true, J: 3, L: 12, proj_channels: 128, num_res_blocks: 3}
   tinyvit: {enabled: true, model_name: vit_small_patch16_dinov3, frozen: true, dropout: 0.3}
   head: fno
-  # PRETRAINED language: frozen MiniLM -> robust instruction grounding (the #1 Bridge lever).
-  # Requires tokenizer = HFTokenizerAdapter(model_name) and language.pretrained handling in fno_vla.py.
+  # TRAINABLE bert-tiny (4.4M, pretrained init + fine-tuned) -> keeps TOTAL at
+  # ~32.8M (within the user's 35M cap), unlike frozen MiniLM which pushed it to 51M.
+  # freeze: false makes the encoder learn Bridge grounding. Specialize the data
+  # (curated slice) so this small encoder is sufficient.
   language:
     pretrained: true
-    model_name: sentence-transformers/all-MiniLM-L6-v2
+    freeze: false
+    model_name: prajjwal1/bert-tiny
     embed_dim: 128
     max_seq_len: 32
   proprio: {input_dim: 15, hidden_dim: 64, output_dim: 128}   # joints are zero-filled for Bridge; 15D kept
@@ -34,21 +38,25 @@ model:
   fusion: {shared_dim: 256, num_layers: 3, num_heads: 8, mlp_dim: 768, latent_dim: 256, separate_pool: true, vision_pool: mean}
   fno: {width: 256, num_layers: 4, modes: 8, action_dim: 6, chunk_size: 16}   # 6 continuous + gripper (WidowX)
 training:
-  batch_size: 192                  # @224 + scattering is heavier; 192 is safe on 80GB. Raise toward 256-384 if VRAM allows (@128 use 256+).
-  num_workers: 16                  # A100 boxes have many CPUs; dataloading is the bottleneck
+  batch_size: 128                  # ACCURACY-OPTIMAL: the proven setting from the 79.5% LIBERO models;
+                                   # moderate batch generalizes best + keeps results comparable to LIBERO.
+                                   # (bigger batch = faster-but-slightly-worse; we chose accuracy here.)
+  num_workers: 32                  # 56-core box; plenty to feed batch 128
   checkpoint_dir: /workspace/fno_data/run_bridge
-  lr: 0.0003                       # cosine + warmup; scale up if you raise batch a lot
+  lr: 0.0003                       # matched to batch 128 (the proven LIBERO LR scale); cosine + warmup
   weight_decay: 1.0e-05
   warmup_steps: 1000
   ema_decay: 0.999
-  max_epochs: 30                   # ~2M transitions; rely on EMA val + ckpt_every to early-stop
-  ckpt_every: 2
+  max_epochs: 100                  # high ceiling (user); best.pt keeps the peak. NOTE: big data converges
+                                   # faster -> expect peak well before 100; will stop on val plateau.
+  ckpt_every: 3                    # save a checkpoint every 3rd epoch
   grad_clip: 1.0
   mixed_precision: true            # bf16 on A100 -> ~2x + bigger batch
   loss: {action: smooth_l1, gripper: bce, gripper_weight: 1.0, aux_xy_weight: 0.5}
   action_chunk: {size: 16, execute: 8}
 data:
-  dataset: bridge                  # train.py must route this to BridgeLazyDataset (additive hook)
+  dataset: bridge                  # train.py routes this to BridgeLazyDataset (additive hook)
+  stride: 2                        # sample every 2nd chunk start: ~2x faster epochs, chunks overlap heavily
   img_size: 224                    # MUST equal the conversion res (convert --img_size 224)
   augmentation: {random_crop: true, color_jitter: true, corruption: true}   # real-world variation
 eval: {num_rollouts: 0, max_episode_steps: 500}   # no sim eval for Bridge; held-out MSE + real WidowX
