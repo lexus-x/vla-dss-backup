@@ -74,8 +74,11 @@ class FNOVLA(nn.Module):
         # Language encoder — frozen pretrained sentence model (robust grounding)
         # or the from-scratch tiny encoder.
         if lc.get('pretrained', False):
+            # freeze defaults True (frozen MiniLM). For a small trainable encoder
+            # (e.g. bert-tiny) set language.freeze: false to fine-tune it.
             self.language = PretrainedLanguageEncoder(
                 model_name=lc['model_name'], out_dim=lc['embed_dim'],
+                freeze=lc.get('freeze', True),
             )
         else:
             self.language = LanguageEncoder(
