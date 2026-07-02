@@ -1,0 +1,25 @@
+=== PROOF: DINOv3 / TinyViT is frozen (requires_grad=False) ===
+
+--- src/model/dual_vision_encoder.py (DINOv3 ViT-S) lines 58-67 ---
+            # interpolated to our input grid; conv backbones reject that kwarg.
+            try:
+                self.tinyvit = timm.create_model(
+                    tinyvit_name, pretrained=True, num_classes=0, img_size=tinyvit_input)
+            except TypeError:
+                self.tinyvit = timm.create_model(tinyvit_name, pretrained=True, num_classes=0)
+            for p in self.tinyvit.parameters():
+                p.requires_grad = False
+            self.tinyvit.eval()
+            self._tv_dim = self.tinyvit.num_features
+
+--- src/model/language_encoder.py (bert-tiny) lines 82-86 ---
+        self.frozen = freeze
+        if freeze:
+            for p in self.model.parameters():
+                p.requires_grad = False
+            self.model.eval()
+
+--- configs/pretrain_dinov3.yaml header (its own words) ---
+# Cross-suite PRETRAIN: DINOv3 ViT-S/16 (frozen, 21.6M) + Scattering (kept) +
+# tiny learned language encoder. ~28.6M total (<=32M cap). All 5 LIBERO suites
+# (~130 tasks). stride 4 (full superset), 80 epochs.
