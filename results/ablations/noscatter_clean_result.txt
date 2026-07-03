@@ -1,0 +1,6 @@
+=== SCATTER-OFF (noscatter) clean accuracy @200 ===
+Object  (scatter OFF): 62.5% (125/200)  vs scatter-ON ~61% => NEUTRAL on clean (~equal).
+Spatial (scatter OFF): 44%   -- INVALID: the noscatter checkpoint is an OBJECT-trained
+                               model; Spatial is out-of-suite. DO NOT cite this number.
+Conclusion: scattering is ~neutral on clean accuracy; its value is noise-robustness
+(+25..+38pp under noise, see robustness_onoff.csv). Use the OBJECT comparison only.

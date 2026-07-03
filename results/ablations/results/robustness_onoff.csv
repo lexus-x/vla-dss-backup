@@ -1,0 +1,11 @@
+perturb,severity,scatterON_pct,scatterON_n,scatterOFF_pct,scatterOFF_n,delta_on_minus_off
+clean,0,61,100,60,100,1
+noise,1,61,100,36,100,25
+noise,2,62,100,24,100,38
+noise,3,54,100,29,100,25
+blur,1,51,100,71,100,-20
+blur,2,47,100,66,100,-19
+blur,3,38,100,62,100,-24
+brightness,1,60,100,59,100,1
+brightness,2,57,100,64,100,-7
+brightness,3,58,100,63,100,-5
