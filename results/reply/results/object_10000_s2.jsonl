@@ -1,0 +1,200 @@
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08592049264768489}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09032325987620053}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06298923778585182}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07888424007942194}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0984343809929366}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.078151617285714}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09438507868644119}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07548934395271556}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07707362773625798}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06165210870725424}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0787517381087589}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06756977102871543}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08501165046358958}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 151, "jerk": 0.048397917035207676}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 145, "jerk": 0.05746997445118928}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09158763862694684}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 155, "jerk": 0.04854560405975167}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06176686298233863}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.090653728308427}
+{"task_idx": 0, "task": "pick up the alphabet soup and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06799358874291277}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08103523993916525}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 139, "jerk": 0.060196779366033695}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 157, "jerk": 0.05290608482844677}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 132, "jerk": 0.05963025445309587}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 140, "jerk": 0.05833817740515941}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 134, "jerk": 0.057353121717842626}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 157, "jerk": 0.06719770159219361}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 167, "jerk": 0.07819003748361755}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0898566980249232}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08705939320503021}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07959192587530035}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 216, "jerk": 0.07343546187929806}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 130, "jerk": 0.05454343766950842}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08969767917490874}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 130, "jerk": 0.05719209619170821}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 168, "jerk": 0.06231908454610237}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 188, "jerk": 0.06909282424209279}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 136, "jerk": 0.06249241499293686}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 219, "jerk": 0.06951524372476893}
+{"task_idx": 1, "task": "pick up the cream cheese and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 137, "jerk": 0.061571384601461714}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 131, "jerk": 0.04893030339547551}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 121, "jerk": 0.04374625199149605}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 188, "jerk": 0.04924025813313318}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 129, "jerk": 0.05325025730409471}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 118, "jerk": 0.049135711426604486}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 128, "jerk": 0.047115630093406365}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08484801055914785}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 153, "jerk": 0.05061699665075982}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 151, "jerk": 0.05521337333241044}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 120, "jerk": 0.04535437066477623}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 129, "jerk": 0.047221803030132355}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 179, "jerk": 0.0632542444641545}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 124, "jerk": 0.05098308380957199}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 123, "jerk": 0.057563578692160944}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 115, "jerk": 0.042894489316278}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 169, "jerk": 0.05215849009422193}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 123, "jerk": 0.04554545617477645}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 118, "jerk": 0.058210685229478885}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 126, "jerk": 0.0474550898442851}
+{"task_idx": 2, "task": "pick up the salad dressing and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 119, "jerk": 0.04783958087554546}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.10915299983343855}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 128, "jerk": 0.05722740116447861}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07574844118380268}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06338204068120143}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06864551128327208}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 138, "jerk": 0.051473714928779016}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 244, "jerk": 0.05507535155365159}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08711442466264815}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 137, "jerk": 0.05449138489252899}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 162, "jerk": 0.05656517501120106}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07089159513157371}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 146, "jerk": 0.05209683030719774}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 149, "jerk": 0.051501802137108886}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09784135146840602}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 238, "jerk": 0.07229511481569192}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06070435577092873}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08090685195137647}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 190, "jerk": 0.06316808067274145}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 130, "jerk": 0.05520003111799573}
+{"task_idx": 3, "task": "pick up the bbq sauce and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07119212788051943}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07271963104107838}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 166, "jerk": 0.05686388844971988}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07822889449735722}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06409211794097348}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07635927295214395}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 138, "jerk": 0.041727966435513845}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06921705990660994}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06977166919552696}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07360390604745091}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 156, "jerk": 0.06736757032834276}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07037037050659016}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06858819655958899}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06913175003110628}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06879036774162875}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 146, "jerk": 0.049895577219878626}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07930193400917024}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 142, "jerk": 0.04839551607313167}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07359299218459359}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07400540465929147}
+{"task_idx": 4, "task": "pick up the ketchup and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 141, "jerk": 0.05160098875651127}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 222, "jerk": 0.06725839801929948}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 157, "jerk": 0.05981521314680977}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 169, "jerk": 0.07475631253850998}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 159, "jerk": 0.0643677529207858}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 119, "jerk": 0.07349977352163234}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.060855659179596566}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 123, "jerk": 0.05060114648392598}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 160, "jerk": 0.058174215415458266}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 233, "jerk": 0.0845472463694721}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 143, "jerk": 0.05301608220150091}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08120981263916416}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 128, "jerk": 0.05536309284359468}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 148, "jerk": 0.056492860734512707}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0694249862076877}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0773117003399431}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 175, "jerk": 0.05659397520487841}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08063350819345522}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07689460805057426}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 150, "jerk": 0.06331170746413697}
+{"task_idx": 5, "task": "pick up the tomato sauce and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 157, "jerk": 0.0555632132748943}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08207245430776691}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 163, "jerk": 0.05862559391379426}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 169, "jerk": 0.06737989135539185}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08720685570465496}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08568008997005397}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.10092052559578328}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09358574690324936}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 160, "jerk": 0.06029848167368207}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 339, "jerk": 0.08276790263947435}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0875750750053814}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07225057524420286}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0845223329937656}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 228, "jerk": 0.06706699291292226}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08883671020118634}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09191820618435795}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09173305772815891}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07443010544981005}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07970630494560625}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0846610222080006}
+{"task_idx": 6, "task": "pick up the butter and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09787646494215936}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09642234305777841}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 145, "jerk": 0.05224777000431419}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 130, "jerk": 0.05423972540468943}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09442205167146574}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08727468150434625}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 155, "jerk": 0.049665544058291614}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08604825570710609}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07378423594185417}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 135, "jerk": 0.0523484748309533}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 153, "jerk": 0.05756862413099089}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09701503833727186}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08289055998898869}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 202, "jerk": 0.06096686978096841}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 151, "jerk": 0.05210151098956618}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08759229675662109}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 133, "jerk": 0.046733001706859276}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.10415086090460207}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09422606272155722}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 168, "jerk": 0.0625329005663343}
+{"task_idx": 7, "task": "pick up the milk and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 145, "jerk": 0.060324307695836576}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 276, "jerk": 0.0697117713435101}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 151, "jerk": 0.06390222371503777}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07667520894355338}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 180, "jerk": 0.05378529667803732}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09045339870645698}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0681020019414493}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.11108783701898053}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 152, "jerk": 0.05820309195460545}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.11293292135873637}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06603580622765032}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08083406773828153}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 141, "jerk": 0.04675215445316511}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06502692617552622}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 177, "jerk": 0.059433504701370286}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 149, "jerk": 0.05342854591825124}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 155, "jerk": 0.05328674032111918}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07599442580271099}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 160, "jerk": 0.05177676117473541}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 161, "jerk": 0.06059892381600249}
+{"task_idx": 8, "task": "pick up the chocolate pudding and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08962833286185341}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 169, "jerk": 0.05714314391775179}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 113, "jerk": 0.045543092554686845}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 117, "jerk": 0.04767919992302558}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 136, "jerk": 0.053852035047918495}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 107, "jerk": 0.048770406807307154}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 389, "jerk": 0.07947773683665185}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 124, "jerk": 0.048238601016301834}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 109, "jerk": 0.0588157325210572}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 119, "jerk": 0.04742932409738612}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0887431855909889}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 143, "jerk": 0.05072238724502618}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 133, "jerk": 0.05443300649555727}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 113, "jerk": 0.05349849703002934}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 113, "jerk": 0.04512001883676248}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07979154764639797}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 113, "jerk": 0.046964471428476796}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 118, "jerk": 0.043456990234339715}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 112, "jerk": 0.04271405922093739}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 119, "jerk": 0.05681209390511354}
+{"task_idx": 9, "task": "pick up the orange juice and place it in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 131, "jerk": 0.049833229618632534}

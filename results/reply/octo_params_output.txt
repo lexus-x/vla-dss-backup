@@ -1,0 +1,5 @@
+OCTO-SMALL 1.5 total params : 136.7M
+  T5-base language encoder  : 109.6M   (frozen, required at inference)
+  Octo transformer + heads  : 27.0M
+VLA-DSS total               : 28.9M  (incl. 4.4M bert-tiny language encoder)
+=> deployable size ratio    : 4.7x

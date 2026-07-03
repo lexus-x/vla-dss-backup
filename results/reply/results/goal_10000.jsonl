@@ -1,0 +1,200 @@
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 121, "jerk": 0.05852403488441916}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 128, "jerk": 0.06321238976701227}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 178, "jerk": 0.08458794670392915}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.13784722690585566}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 118, "jerk": 0.05008094926329929}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 133, "jerk": 0.062137447044303115}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.12310782828936868}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 143, "jerk": 0.06838730388914342}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 194, "jerk": 0.0744012951812086}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 114, "jerk": 0.055600767640585434}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 133, "jerk": 0.06965587973362428}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 117, "jerk": 0.053654992677595305}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 121, "jerk": 0.053743188188239116}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 122, "jerk": 0.058169402943329056}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 135, "jerk": 0.05514133584721803}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 122, "jerk": 0.06326661252921137}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 111, "jerk": 0.05075612491842599}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 137, "jerk": 0.06012539927284291}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 146, "jerk": 0.0672344020438484}
+{"task_idx": 0, "task": "open the middle drawer of the cabinet", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 123, "jerk": 0.06394611307568643}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 83, "jerk": 0.054147949359387375}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 91, "jerk": 0.055843020920564986}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07306185566261138}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 95, "jerk": 0.06018173136317762}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 82, "jerk": 0.05115270348615013}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 81, "jerk": 0.050081984282428015}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 105, "jerk": 0.05953804410437972}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 83, "jerk": 0.0522919322139825}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 84, "jerk": 0.05704025564832628}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 92, "jerk": 0.054933983840358754}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 91, "jerk": 0.05349781061261055}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 90, "jerk": 0.05330562830534869}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 102, "jerk": 0.05958479603791299}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 97, "jerk": 0.056233394646347225}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 92, "jerk": 0.050172573683731674}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 97, "jerk": 0.04601495497810997}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 99, "jerk": 0.05256000811856598}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 88, "jerk": 0.05497690058013699}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07411849337785584}
+{"task_idx": 1, "task": "put the bowl on the stove", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 91, "jerk": 0.048199427524260645}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 94, "jerk": 0.04518797530192018}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06563827606166481}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 165, "jerk": 0.058091959313504735}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 169, "jerk": 0.0695960933919773}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 90, "jerk": 0.04867236791654828}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 88, "jerk": 0.048725123095322516}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 101, "jerk": 0.04445629762187726}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 84, "jerk": 0.04261776319670877}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08814860622281945}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 96, "jerk": 0.056640730304676534}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 98, "jerk": 0.05059356634228607}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 77, "jerk": 0.04561276412801817}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 100, "jerk": 0.04312757393115574}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08259033260635339}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 112, "jerk": 0.05858756624387972}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 90, "jerk": 0.05201036052841863}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 97, "jerk": 0.05560272036185652}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 86, "jerk": 0.046032639200954385}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 95, "jerk": 0.04799541390933243}
+{"task_idx": 2, "task": "put the wine bottle on top of the cabinet", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 92, "jerk": 0.047548452090834165}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 195, "jerk": 0.06270320224113254}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09085755563501761}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08578996347412436}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 263, "jerk": 0.06766210239806414}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 212, "jerk": 0.06261242965221524}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07629458594650351}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06855174267260511}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07538900959141275}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 189, "jerk": 0.0706759946424524}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 272, "jerk": 0.08088284899023603}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.10243892531129851}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 185, "jerk": 0.05790554238708082}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09702752406651956}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08360905350676162}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 196, "jerk": 0.06009717040880874}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08933182467860162}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08988327268936938}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 213, "jerk": 0.06152884318992807}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 199, "jerk": 0.07014513770220786}
+{"task_idx": 3, "task": "open the top drawer and put the bowl inside", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 206, "jerk": 0.056658008124061486}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 91, "jerk": 0.05343629326627761}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 85, "jerk": 0.06545022381497659}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 93, "jerk": 0.05690860280028507}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 90, "jerk": 0.057902996038936894}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 87, "jerk": 0.04588406671788178}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 83, "jerk": 0.05629072480675967}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 97, "jerk": 0.05881407634240755}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 88, "jerk": 0.05810219872167132}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 89, "jerk": 0.056280859173329055}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 90, "jerk": 0.061522749599217524}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 81, "jerk": 0.05649775307859345}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 85, "jerk": 0.05596718789652424}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 93, "jerk": 0.04838122687287178}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 77, "jerk": 0.05201363796626942}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08322828666256722}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 79, "jerk": 0.06166015579203926}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 86, "jerk": 0.05661170592112097}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 88, "jerk": 0.056303562269755456}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 93, "jerk": 0.057431758262026004}
+{"task_idx": 4, "task": "put the bowl on top of the cabinet", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 85, "jerk": 0.053135815667489684}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.10928348424308973}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 136, "jerk": 0.04120080892879294}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 125, "jerk": 0.03972639815678674}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 140, "jerk": 0.04161857908458341}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 134, "jerk": 0.04818283517479266}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 134, "jerk": 0.04489807300831102}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09924895983449475}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 161, "jerk": 0.04773270353368353}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.12303183032294315}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 148, "jerk": 0.03759784408505861}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 147, "jerk": 0.04521836817141451}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 119, "jerk": 0.041989772961650074}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 123, "jerk": 0.04102995516905515}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.10133419784401751}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 122, "jerk": 0.04770939476309448}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 147, "jerk": 0.04450767615504948}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 110, "jerk": 0.040136078624830894}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 134, "jerk": 0.043037414853578676}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 138, "jerk": 0.051458748897643736}
+{"task_idx": 5, "task": "push the plate to the front of the stove", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 124, "jerk": 0.05626146537359916}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 94, "jerk": 0.0614854593607732}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 94, "jerk": 0.056565605583971876}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0892480092366024}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.11049570736136573}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.090377336099644}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07541566554305239}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09139131970853362}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 152, "jerk": 0.07237217798208197}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 95, "jerk": 0.06227928660930999}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 143, "jerk": 0.06907236811470452}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 91, "jerk": 0.05252505943513988}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09369632379222861}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 93, "jerk": 0.0526883675330472}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 148, "jerk": 0.06832440179872612}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 99, "jerk": 0.06309212903656974}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 269, "jerk": 0.06064246920549012}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 89, "jerk": 0.05295260602044534}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 84, "jerk": 0.05084982002437932}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 147, "jerk": 0.06898223072017447}
+{"task_idx": 6, "task": "put the cream cheese in the bowl", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 88, "jerk": 0.06486241578538686}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 81, "jerk": 0.04493992777446969}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 85, "jerk": 0.05930027855189899}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 77, "jerk": 0.04374245377205726}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 109, "jerk": 0.048796202900755654}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 63, "jerk": 0.04540753868011544}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 83, "jerk": 0.050576348403859654}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09953421954037481}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 72, "jerk": 0.052280326490844825}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 77, "jerk": 0.05191034656224979}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 66, "jerk": 0.05830345897751007}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 70, "jerk": 0.04841849527392518}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 74, "jerk": 0.05522399009162284}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 70, "jerk": 0.05166717150018039}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 78, "jerk": 0.050106974834323}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 69, "jerk": 0.05143687526917836}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 76, "jerk": 0.05577676153588654}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 75, "jerk": 0.04485539312115084}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 71, "jerk": 0.05259208240409062}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 72, "jerk": 0.06251015514246233}
+{"task_idx": 7, "task": "turn on the stove", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 107, "jerk": 0.057152219025033806}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 85, "jerk": 0.0513340776784338}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08917056517143168}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 83, "jerk": 0.04905016139416032}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 78, "jerk": 0.05034932343921371}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 80, "jerk": 0.05071828748163186}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07356249154397167}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 93, "jerk": 0.06252684320737659}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 7, "perturb": "none", "severity": 0, "success": 1, "steps": 78, "jerk": 0.05470205593155697}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 85, "jerk": 0.05758753019042807}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 70, "jerk": 0.06216663928410294}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 83, "jerk": 0.06066809668360899}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 94, "jerk": 0.06341209150833901}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 76, "jerk": 0.0523764196283033}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 84, "jerk": 0.06388278336858574}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 77, "jerk": 0.06171785242803809}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 86, "jerk": 0.06610835550097927}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08981915893217618}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 68, "jerk": 0.05060040501223858}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 69, "jerk": 0.06270495615262464}
+{"task_idx": 8, "task": "put the bowl on the plate", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 75, "jerk": 0.05726457228214314}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 135, "jerk": 0.04939876266645459}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07414728144296465}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 167, "jerk": 0.0456399443540534}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09065884761211979}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 199, "jerk": 0.05227474417449204}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.0969914627712691}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07019005542160035}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.08306318650979992}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 8, "perturb": "none", "severity": 0, "success": 1, "steps": 157, "jerk": 0.04640766593091871}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06597504493120553}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 193, "jerk": 0.05272285337356711}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 178, "jerk": 0.06236754094910187}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 139, "jerk": 0.05134122309879991}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.09401600029911547}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.07715267692501478}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 400, "jerk": 0.06855920707844775}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 151, "jerk": 0.05268672402371013}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 17, "perturb": "none", "severity": 0, "success": 1, "steps": 198, "jerk": 0.05161614115088608}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 299, "jerk": 0.06689423338421772}
+{"task_idx": 9, "task": "put the wine bottle on the rack", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 155, "jerk": 0.049759125676866384}
