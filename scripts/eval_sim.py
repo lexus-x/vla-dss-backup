@@ -170,7 +170,7 @@ def main():
     init_root = get_libero_path("init_states")
 
     import json
-    jlog = open(args.log_jsonl, 'a', encoding='utf-8') if args.log_jsonl else None
+    jlog = open(args.log_jsonl, 'w', encoding='utf-8') if args.log_jsonl else None
 
     results = {}
     t_start = time.time()
