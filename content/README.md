@@ -12,6 +12,7 @@ into the IEEE draft with light editing.
 | `04_related_work.md` | Related Work |
 | `05_discussion.md` | Analysis, Discussion, Limitations, Future Work |
 | `06_repro.md` | Reproducibility (protocol, configs, seeds) |
+| `07_novelty_vs_priorart.md` | Differentiation vs arXiv:2604.03449 (DeepONet) — the Novelty lever |
 
 ## One-paragraph abstract seed
 We present **VLA-DSS**, a 28.9M-parameter RGB-only vision-language-action model whose
