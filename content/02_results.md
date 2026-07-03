@@ -72,3 +72,17 @@ Early-stop is correct: Spatial-DAgger ep5=75 -> ep10=70 -> ep15=72 -> ep20=67
 Same DINOv3 model, only the action head swapped (FNO -> MLP), identical fine-tuning
 budget (both to the FNO baseline's ep63 checkpoint), Object @200 x 3 seeds. **[result
 pending — isolates whether the FNO head itself drives performance].**
+
+## Statistical analysis
+Per-suite two-sided permutation tests (20k permutations) on pooled per-rollout
+successes, with bootstrap 95% CIs of the success-rate difference (VLA-DSS - Octo):
+- **Object: +25.2pp, 95% CI [+19.0, +31.2], p < 1e-4 (significant), Cohen's h large.**
+- Goal: -3.2pp, p = 0.30 (n.s.) - statistical tie.
+- Spatial: -3.3pp, p = 0.17 (n.s.) - statistical tie.
+So the Object win is statistically significant and the Goal/Spatial results are
+*confirmed ties*, not losses. See content/significance.md and figures/.
+
+## Figures (content/figures/)
+fig_main_comparison, fig_size_vs_perf (efficiency frontier), fig_param_breakdown,
+fig_jerk, fig_resolution_invariance, fig_robustness, fig_scattering_onoff,
+fig_dagger_curve, fig_pertask_object.
