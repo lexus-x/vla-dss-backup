@@ -1,0 +1,200 @@
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0647105805379486}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 1, "steps": 438, "jerk": 0.057929867854436566}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 320, "jerk": 0.05645814152513543}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07500988652794949}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 341, "jerk": 0.06024941545808111}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06774593145842742}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 413, "jerk": 0.057103734204847}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06916045747771848}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.061004338737596926}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0664702593884924}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 317, "jerk": 0.05427600132023039}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 339, "jerk": 0.05771667347704157}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 353, "jerk": 0.05569068523582004}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05652094575840722}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 284, "jerk": 0.05687579376970904}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08152917742876101}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07401626881822236}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06633719357032715}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 294, "jerk": 0.05747155341987932}
+{"task_idx": 0, "task": "put both the alphabet soup and the tomato sauce in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0681294674856366}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 366, "jerk": 0.07152259435748592}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0722926463382168}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 243, "jerk": 0.06094462237865722}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 402, "jerk": 0.07814313066385997}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08411744327898009}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 1, "steps": 286, "jerk": 0.06255855774692753}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 271, "jerk": 0.06528712695281574}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08272541176702686}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07720425713004248}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 1, "steps": 394, "jerk": 0.06488924558736942}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09096301088541531}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 259, "jerk": 0.06188452810767178}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 284, "jerk": 0.07431658984483362}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 256, "jerk": 0.0659992527057022}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 254, "jerk": 0.0629593651138416}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 260, "jerk": 0.057970839783005434}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 288, "jerk": 0.06708388641234574}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08103792246078362}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07649385798224788}
+{"task_idx": 1, "task": "put both the cream cheese box and the butter in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06913738574116536}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 0, "perturb": "none", "severity": 0, "success": 1, "steps": 316, "jerk": 0.054702159629431764}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07544760778779942}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08887245209546035}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07081537813333942}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 259, "jerk": 0.050737572954387807}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08105735907910849}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 262, "jerk": 0.06530786487527597}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07215793282430828}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07402230091258019}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10155729410245572}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08618544807881864}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.076945024021367}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07636406377345685}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0770980516610067}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09235402838221347}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 263, "jerk": 0.05145969582153044}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0900003550560037}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0699630575928782}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 18, "perturb": "none", "severity": 0, "success": 1, "steps": 300, "jerk": 0.048806827744157566}
+{"task_idx": 2, "task": "turn on the stove and put the moka pot on it", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 264, "jerk": 0.05151369512088848}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09107383653497399}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08481729353969883}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10132829210481636}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 215, "jerk": 0.049699816905823424}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09424099886277015}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07868191901266829}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07734961022060663}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10778008479685465}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0828753200535109}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08242404483456774}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09016607674816}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 250, "jerk": 0.05774015849077528}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 253, "jerk": 0.06154502872785783}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08697252820391019}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08327305621146058}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 15, "perturb": "none", "severity": 0, "success": 1, "steps": 234, "jerk": 0.05836304216699182}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 251, "jerk": 0.059481217281068796}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08221479829946125}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09447430541790522}
+{"task_idx": 3, "task": "put the black bowl in the bottom drawer of the cabinet and close it", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08101255381339693}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07203225670165643}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07154975515201588}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0834610199260109}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09826298343957846}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08397806040037303}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0790988024365839}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 314, "jerk": 0.05558110743190926}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05455898896053484}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07501417432611636}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06975574608177877}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 243, "jerk": 0.05306287601436868}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08409522608221834}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07840481025715532}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 282, "jerk": 0.04742681785165111}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07424925260357154}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07963871507993805}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07271069283075443}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06363538957226642}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08720686923974134}
+{"task_idx": 4, "task": "put the white mug on the left plate and put the yellow and white mug on the right plate", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0618218341128163}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08924610839329697}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0947749375031094}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10227711378058643}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0882522474800874}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 195, "jerk": 0.04668221081404372}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09006573421384313}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 339, "jerk": 0.06530062399406639}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.1003855068631519}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07602485114996142}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0879242176671773}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 10, "perturb": "none", "severity": 0, "success": 1, "steps": 196, "jerk": 0.04964850467443306}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08044145521920677}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10182445440721702}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09755008484187838}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08294762264279941}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07229727750515992}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07802411661898134}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.100782100511367}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0996492540294698}
+{"task_idx": 5, "task": "pick up the book and place it in the back compartment of the caddy", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0861428951988113}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06624331155555933}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05726889218359463}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05878708396888771}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07425258465323062}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 4, "perturb": "none", "severity": 0, "success": 1, "steps": 476, "jerk": 0.056421758550868936}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0847298881995394}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0649274676679213}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06280906079148815}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07894217137453939}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06593826624739774}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.061654975343964906}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07560425864187627}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 12, "perturb": "none", "severity": 0, "success": 1, "steps": 256, "jerk": 0.049528520546665324}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07136680312151528}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06644522870399958}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08541947960161314}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0584587941614993}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.052592017453534}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06373236837589603}
+{"task_idx": 6, "task": "put the white mug on the plate and put the chocolate pudding to the right of the plate", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05519609119137801}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07810594476401232}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07724441621967029}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 2, "perturb": "none", "severity": 0, "success": 1, "steps": 269, "jerk": 0.06350465615096267}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 3, "perturb": "none", "severity": 0, "success": 1, "steps": 266, "jerk": 0.06674735631877227}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07490715401153959}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09403299832104788}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08334622820708205}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08244824548436998}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07818937097000449}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09734155307277319}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.04785463708951766}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 277, "jerk": 0.06784415301189504}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07511271150674206}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 13, "perturb": "none", "severity": 0, "success": 1, "steps": 264, "jerk": 0.0677485772357891}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 264, "jerk": 0.06649544151987449}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0898915139034597}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10937814873381317}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0869426894760374}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0770098199846468}
+{"task_idx": 7, "task": "put both the alphabet soup and the cream cheese box in the basket", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08078979900753885}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05254116562791994}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05114156861297388}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05662786854517209}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05372323960587829}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.04299662839449992}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.057823292690875897}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 6, "perturb": "none", "severity": 0, "success": 1, "steps": 372, "jerk": 0.05002709262079333}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0540996608971317}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.058252234193000636}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.04114775152568349}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07250886038867206}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 11, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07370117936617411}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.050895895111092146}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.05652588307834153}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 14, "perturb": "none", "severity": 0, "success": 1, "steps": 407, "jerk": 0.04094036601779891}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.061861808731367575}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 16, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.050464674575413176}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.06553937815078623}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0580274796749568}
+{"task_idx": 8, "task": "put both moka pots on the stove", "rollout": 19, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.04646538385232119}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 0, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08261860667148017}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 1, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10585199538649474}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 2, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08025407637461683}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 3, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07040350935463414}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 4, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10064261068289927}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 5, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0948727149745411}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 6, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09593756597883918}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 7, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10477203904043592}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 8, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09902564465755352}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 9, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.1235955042786997}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 10, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.0982714864237046}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 11, "perturb": "none", "severity": 0, "success": 1, "steps": 258, "jerk": 0.06790329514645539}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 12, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.07809167569174837}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 13, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10500923740465211}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 14, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.11587464229197011}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 15, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.08585983305621048}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 16, "perturb": "none", "severity": 0, "success": 1, "steps": 294, "jerk": 0.07808467045893625}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 17, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.09901350943745169}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 18, "perturb": "none", "severity": 0, "success": 0, "steps": 600, "jerk": 0.10789110888534931}
+{"task_idx": 9, "task": "put the yellow and white mug in the microwave and close it", "rollout": 19, "perturb": "none", "severity": 0, "success": 1, "steps": 320, "jerk": 0.0761439942405071}

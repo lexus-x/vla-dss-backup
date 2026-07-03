@@ -1,0 +1,6 @@
+OCTO-SMALL 1.5 total params : 136.7M
+  T5-base language encoder  : 109.6M   (frozen, required at inference)
+  Octo transformer + heads  : 27.0M
+VLA-DSS (LIBERO)            : 28.9M  (incl. 0.40M learned text encoder; 7.03M trainable)
+VLA-DSS FINAL PRODUCT       : ~32.9M (with 4.4M bert-tiny text encoder for real-world)
+=> deployable size ratio    : 4.7x (LIBERO) / 4.1x (final product) vs Octo 136.7M

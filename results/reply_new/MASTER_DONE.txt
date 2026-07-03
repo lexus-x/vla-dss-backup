@@ -1,0 +1,9 @@
+=== MASTER RUN COMPLETE ===
+
+[ep20] === SPATIAL DAgger ep20 (~10.6k steps ~ Octo 10k): 67% (134/200) | ep5=75 ep10=70 ep15=72 | Octo=83 ===
+
+=== 3-SEED DAGGER ===
+Spatial-DAgger ep5 seeds: 75, 79.5, 78.5  mean=77.7%
+Object-DAgger  ep5 seeds: 71.1, 75.5, 76.5  mean=74.4%
+
+[robustness brightness sev5 redo] 0/100
